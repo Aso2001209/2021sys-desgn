@@ -1,6 +1,6 @@
 # DB定義書
 ## ER図
-[ER図はこちら](https://github.com/Aso2001209/2021sys-desgn/blob/main/dai28kai.md"ER図はこちら")
+[ER図はこちら](https://github.com/Aso2001209/2021sys-desgn/blob/main/dai28kai.md "ER図はこちら")
 
 # DBテーブルカラム詳細一覧
 
